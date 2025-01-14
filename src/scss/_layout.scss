@@ -1,4 +1,9 @@
-.l_groupepoisson {
+.l-pattern {
   background-image: url(../img/Pattern.png);
   width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+  border-bottom: solid;
+  border-color: #ffb500;
+  border-width: 10px;
 }
